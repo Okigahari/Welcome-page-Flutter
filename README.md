@@ -1,16 +1,11 @@
-# test_app
+<p align="center" dir="auto"> Hello there :wave: </p>
 
-A new Flutter project.
+--- 
+<p align="center" dir="auto">Well, today every application has its own welcome page.</p>
+ 
 
-## Getting Started
+<p align="center">
+  <img src="https://i.ibb.co/TB2L2L5/flutter.png">
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Flutter)](https://flutter.dev)
